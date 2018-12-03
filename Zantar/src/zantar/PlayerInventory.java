@@ -20,7 +20,6 @@ public class PlayerInventory {
 	    	
 	    	
 	    }
-	    // checks if item should be removed
 	    public void removeitem(Item item) 
 	    {
 	    	if(item.concheck() && item.charcheck() == 0) 
