@@ -1,4 +1,4 @@
-package zantar;
+package comp730;
 
 import java.awt.List;
 import java.util.ArrayList;
